@@ -1,5 +1,5 @@
 # Employability analysis using logistic regression model
-The analysis below is part of the master's thesis defended at University of Warsaw in June 2022 by Natalia Graczyk.
+The analysis below is part of the Master's thesis defended at University of Warsaw in June 2022 by Natalia Graczyk.
 
 Title: *Relationship of personality traits with the probability of being employed in Poland*
 
@@ -33,12 +33,12 @@ This data was chosen because it is the only survey on the labour market situatio
 More information on the study itself can be found on the following website: [oecd-piaac](https://www.oecd.org/skills/piaac/)
 
 ## Methods
-The relationship of personality traits with the probability of employment was estimated using logistic regression model in which the employment status during post-PIAAC study is the dependent variable and takes the values of 1 in case of being employed and 0 in case of being unemployed or professionally inactive during that period. 
+The relationship of personality traits with the probability of employment was estimated using logistic regression model, in which the employment status during post-PIAAC study is the dependent variable, and takes the values of 1 in case of being employed and 0 in case of being unemployed or professionally inactive during that period. 
 
 It was decided to use the logit model because for the purposes of this study, it was important to compare the model with the results of other studies conducted in other countries.
 
 ### Stages of the project:
-- Exploraotory Data Analysis
+- Exploratory Data Analysis
 - Data cleaning and feature engineering
 - Train-Test Split
 - Feature Scaling
@@ -46,4 +46,4 @@ It was decided to use the logit model because for the purposes of this study, it
 - Multicollinearity check
 - Logistic Regression Model
 - Model Evaluation
-- Results
+- Analysing the coefficients
