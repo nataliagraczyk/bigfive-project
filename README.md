@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## Data
+
 The analysis was based on individual data from the from the Programme for the International Assessment of Adult Competencies (PIAAC) by OECD for Poland, as well as its national follow-up (postPIAAC), in which additional information was collected from those who participated in the first edition of the survey. 
 
 This data was chosen because it is the only survey on the labour market situation of Poles that provides information not only on the cognitive skills of respondents, but also on their personality traits.
