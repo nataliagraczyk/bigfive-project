@@ -34,6 +34,7 @@ This data was chosen because it is the only survey on the labour market situatio
 More information on the study itself can be found on the following website: [oecd-piaac](https://www.oecd.org/skills/piaac/)
 
 ## Methods
+
 The relationship of personality traits with the probability of employment was estimated using logistic regression model, in which the employment status during post-PIAAC study is the dependent variable, and takes the values of 1 in case of being employed and 0 in case of being unemployed or professionally inactive during that period. 
 
 It was decided to use the logit model because for the purposes of this study, it was important to compare the model with the results of other studies conducted in other countries.
