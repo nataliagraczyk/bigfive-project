@@ -1,7 +1,7 @@
 # Employability analysis using logistic regression model
 The analysis below is part of the Master's thesis defended at University of Warsaw in June 2022 by Natalia Graczyk.
 
-Title: *Relationship of personality traits with the probability of being employed in Poland*
+Title: *Impact of personality traits on the likelihood of employment*
 
 ## Project Objective
 The aim of this study was to examine the relationship of Big Five personality traits with the likelihood of employment in Poland. 
